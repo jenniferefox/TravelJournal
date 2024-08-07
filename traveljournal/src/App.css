@@ -1,0 +1,25 @@
+ nav {
+  display: flex;
+  align-items: center;
+  height: 90px;
+  padding: 30px 25px;
+  background-color: #3f3e3e;
+  overflow: hidden;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.nav-div {
+  color: #d0a8ca;
+  font-weight: bold;
+  font-size:2em;
+  margin-left: 0.5em;
+}
+
+.logo {
+  width: 6em;
+  height: 6em;
+  filter: drop-shadow(0px 100px 0 #d0a8ca);
+  transform: translateY(-100px);
+  background-repeat: no-repeat;
+}
+
